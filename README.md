@@ -1,5 +1,5 @@
-# Pokedex
-https://leleka14.github.io/Pokedex/
+# Pokemons
+https://leleka14.github.io/Pokemon/
 ## Table of contents
 * [General info](#general-info)
 * [Getting started](#getting-started)
@@ -8,13 +8,13 @@ https://leleka14.github.io/Pokedex/
 
 
 ## General Info
-This project is my test task for TeamVoy company. It is a simple site built with React where you can see general info about pokemons. You can visit it [here](https://leleka14.github.io/Pokedex/)
+This project is my test task for TeamVoy company. It is a simple site built with React where you can see general info about pokemons. You can visit it [here](https://leleka14.github.io/Pokemon/)
 
 ## Getting started
 You can install this project locally using npm:
 ```
-$ git clone git@github.com:Leleka14/Pokedex.git
-$ cd pokedex
+$ git clone git@github.com:Leleka14/Pokemon.git
+$ cd pokemon
 $ npm install
 $ npm start # open localhost:3000
 ```
